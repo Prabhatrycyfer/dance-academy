@@ -1,0 +1,23 @@
+@media (max-width: 1399.98px) {}
+
+@media (max-width: 1199.98px) {}
+
+@media (max-width: 991.98px) {
+    .appo form {
+        margin: 20px 0;
+    }
+
+    .img-sec img {
+        margin-top: 20px;
+    }
+
+    #section-3,
+    #section-2,
+    #section-1 {
+        background-position: right;
+    }
+}
+
+@media (max-width: 767.98px) {}
+
+@media (max-width: 575.98px) {}
